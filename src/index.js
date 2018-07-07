@@ -4,7 +4,7 @@
 * assignment has been copied manually or electronically from any other source (including web sites) or
 * distributed to other students.
 *
-* Name: ___Xiaochen Wang_________________ Student ID: _1015297153___________ Date: __2018-JUL-06_____________
+* Name: ___Xiaochen Wang_________________ Student ID: _015297153___________ Date: __2018-JUL-06_____________
 *
 ********************************************************************************/
 import React from 'react';
